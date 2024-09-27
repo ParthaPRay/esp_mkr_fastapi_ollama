@@ -24,9 +24,12 @@ Server ------------->Client (mkr1000)
 
 # Run same version codes together as we updated the version of both the systems
 
-esp_fastapiserver.py   <----------->esp8266ollama
-                       <----------->esp32ollama
-                        <----------->mkr1000ollama
+<pre>
+esp_fastapiserver.py   <-----------> esp8266ollama
+                       <-----------> esp32ollama
+                       <-----------> mkr1000ollama
+</pre>
+
 
 # Test by CURL
 
