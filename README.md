@@ -58,7 +58,9 @@ curl -X POST http://127.0.0.1:5000/generate -H "Content-Type: application/json" 
 |                     | How to write a story?             | 17        |
 |                     | How to draw a picture?            | 18        |
 
-# Conduct tests using all 18 prompts in sequential manner by changing the BAUD RATE (9600, 57600, 115200) of the Module. Record the results into one excel sheet. 
+# Conduct tests using all 18 prompts in sequential manner by changing the BAUD RATE (9600, 57600, 115200) of the Module. 
+
+Record the results into one excel sheet. 
 
 # Below are Test Codes for this study
 
